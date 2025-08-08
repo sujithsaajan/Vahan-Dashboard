@@ -1,6 +1,6 @@
-venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+share/
+etc/
